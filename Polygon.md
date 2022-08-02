@@ -8,6 +8,14 @@
 
 # Polygon
 
+Last Touched on 2 August 2022
+
+| Parameter             | Value                                          | Note |
+| --------------------- | ---------------------------------------------- | ---- |
+|                       |                                                |      |
+| Polygon Documentation | [Click Here](https://docs.polygon.technology/) |      |
+|                       |                                                |      |
+
 **Polygon** adalah sebuah **scaling & infrastructure solution** yang mengandalkan **ethereum protocol**. 
 
 1. L2 solutions (ZK Rollups and Optimistic Rollups)
@@ -17,6 +25,17 @@
 5. Data Availability Solutions
 
 **Polygon** mendukung transaksi yang lebih cepat dan murah.
+
+
+
+# Learning Path
+
+- [Learning](https://docs.polygon.technology/docs/home/new-to-polygon/)
+- [Staking](https://docs.polygon.technology/docs/maintain/delegate/delegate/)
+- [Governance](https://docs.polygon.technology/docs/maintain/govern/governance)
+- [Developer](https://docs.polygon.technology/docs/develop/getting-started)
+- [Validator](https://docs.polygon.technology/docs/maintain/validate/validator-index/)
+- [Integrator](https://docs.polygon.technology/docs/integrate/quickstart)
 
 
 
@@ -60,4 +79,14 @@
 
 - Simple Multisig - [Click Here](https://medium.com/@alejandrodiaz_71295/simple-multisig-step-by-step-75429d9a4d61)
 - How to Send EIP1559 Transactions - [Click Here](https://docs.polygon.technology/docs/develop/eip1559-transactions/how-to-send-eip1559-transactions/) - [Click Here](https://www.quicknode.com/guides/web3-sdks/how-to-send-an-eip-1559-transaction)
+
+
+
+---
+
+
+
+# Learning Path
+
+
 
